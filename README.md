@@ -1,4 +1,4 @@
-# Promise-API TASK2
+# Promise-API TASK3
 
 ***Purpose of the Project:***   
 By accessing the *GNews Data API*, we have to display the latest news using HTML,CSS,Bootstrap,Javascript
