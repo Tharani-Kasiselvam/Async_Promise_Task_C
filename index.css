@@ -1,0 +1,32 @@
+.par_div{
+    text-align: center;
+    background-color: green;
+    color: white;
+    border-radius: 15px;
+    max-width:90%;
+}
+
+.article_div{
+    max-width:100%;
+    display: flex;
+    flex-wrap: wrap;
+    height:100%;
+    margin:10px
+}
+.aticle_data{
+    margin:5px
+}
+
+.content{
+    width: 400px;
+    height: 250px;
+}
+
+p{
+    font-size: 13px;
+}
+
+.article_image{
+    width: 400px;
+    height: 250px;
+}
